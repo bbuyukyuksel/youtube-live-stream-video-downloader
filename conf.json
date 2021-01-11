@@ -1,0 +1,5 @@
+{
+    "BASE":"<BASEPATH>",
+    "ffmpeg":"ffmpeg.exe",
+    "youtube_dl":"youtube-dl.exe"
+}
